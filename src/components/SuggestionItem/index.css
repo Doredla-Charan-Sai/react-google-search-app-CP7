@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.sugg-cont {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-color: white;
+  width: 350px;
+  height: 30px;
+}
+.arrow {
+  height: 30px;
+}
+.sugg-para {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: black;
+}
